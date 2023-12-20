@@ -1,7 +1,7 @@
 # module-02-challenge
-Advanced CSS Challenge
+Advanced CSS Challenge - 
 
-* Module 02 challenge: Creating a professional portfolio using html and css that follows the acceptance criteria below:
+Module 02 challenge: Creating a professional portfolio using html and css that follows the acceptance criteria below:
 
 GIVEN I need to sample a potential employee's previous work
 
